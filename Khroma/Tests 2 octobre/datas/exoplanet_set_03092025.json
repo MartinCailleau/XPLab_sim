@@ -1,0 +1,98 @@
+[
+  {
+    "name": "WASP-39b",
+    "star": "WASP-39",
+    "detections": ["H2O", "CO2", "SO2", "Na", "K", "CO"],
+    "notes": "Detecté notamment par JWST, première détection de SO2 dans une exoplanète" 
+  },
+  {
+    "name": "WASP-76b",
+    "star": "WASP-76",
+    "detections": ["Fe", "Na", "Ca", "Mg", "K", "Ba", "H2O", "TiO"],
+    "notes": "Métaux atomiques et ionisés + molécules détectées" 
+  },
+  {
+    "name": "WASP-121b",
+    "star": "WASP-121",
+    "detections": ["H2O", "Ba", "Na", "TiO", "VO", "SiO", "CH4 (nightside)"],
+    "notes": "Molécules et métaux détectés, structure 3D de l’atmosphère récemment décrite" 
+  },
+  {
+    "name": "K2-18b",
+    "star": "K2-18",
+    "detections": ["CH4", "CO2", "H2O"],
+    "notes": "Détection de molécules carbonées + eau (avec JWST) dans atmosphère riche en hydrogène" 
+  },
+  {
+    "name": "HD 209458 b",
+    "star": "HD 209458",
+    "detections": ["H2O", "Na", "O (atomique)", "C (atomique)", "CO", "HCN", "CH4", "NH3", "C2H2"],
+    "notes": "Six molécules détectées simultanément selon certaines études (H₂O, CO, HCN, CH₄, NH₃, C₂H₂). :contentReference[oaicite:6]{index=6}" 
+  },
+  {
+    "name": "HD 189733 b",
+    "star": "HD 189733",
+    "detections": ["H2O", "CO", "Na", "K", "CH4 (contesté)"],
+    "notes": "Classement souvent cité comme exemple, mais certaines molécules restent débattues" 
+  },
+  {
+    "name": "HAT-P-26b",
+    "star": "HAT-P-26",
+    "detections": ["H2O"],
+    "notes": "Détection d’eau dans le spectre de transmission" 
+  },
+  {
+    "name": "51 Eridani b",
+    "star": "51 Eridani",
+    "detections": ["H2O", "CH4", "NH3", "CO2"],
+    "notes": "Planète jeune, détectée par imagerie directe + spectroscopie" 
+  },
+  {
+    "name": "WASP-80b",
+    "star": "WASP-80",
+    "detections": ["H2O", "CH4", "NH3", "HCN", "CO2 (tentative)"],
+    "notes": "Molécules multiples, certaines détections provisoires" 
+  },
+  {
+    "name": "WASP-69b",
+    "star": "WASP-69",
+    "detections": ["H2O", "CH4", "NH3", "CO", "C2H2"],
+    "notes": "Plusieurs molécules détectées via spectroscopie" 
+  },
+  {
+    "name": "WASP-19b",
+    "star": "WASP-19",
+    "detections": ["TiO", "H2O", "Na"],
+    "notes": "Detection de TiO, eau et sodium selon certaines études" 
+  },
+  {
+    "name": "Kepler-7b",
+    "star": "Kepler-7",
+    "detections": ["Na", "K", "H2O (faible)"],
+    "notes": "Signatures faibles d’eau + absorptions atomiques" 
+  },
+  {
+    "name": "GJ 1214 b",
+    "star": "GJ 1214",
+    "detections": ["H2O (possible)"],
+    "notes": "Composition incertaine, atmosphère à poids moléculaire élevé" 
+  },
+  {
+    "name": "HD 149026 b",
+    "star": "HD 149026",
+    "detections": ["H2O", "TiO (possible)"],
+    "notes": "Détections selon études haute résolution" 
+  },
+  {
+    "name": "TrES-3b",
+    "star": "TrES-3",
+    "detections": ["Na"],
+    "notes": "Sodium détecté dans le spectre de transmission" 
+  },
+  {
+    "name": "WASP-107b",
+    "star": "WASP-107",
+    "detections": ["He (hélium)"],
+    "notes": "Détection d’hélium dans l’atmosphère — première pour cette planète. :contentReference[oaicite:7]{index=7}" 
+  }
+]

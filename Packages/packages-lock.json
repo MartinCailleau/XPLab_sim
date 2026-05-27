@@ -347,7 +347,7 @@
       "url": "https://packages.unity.com"
     },
     "jp.keijiro.klak.ndi": {
-      "version": "file:C:/Users/marti/Downloads/jp.keijiro.klak.ndi-2.1.6/package",
+      "version": "file:jp.keijiro.klak.ndi-2.1.6/package",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -355,7 +355,7 @@
       }
     },
     "jp.keijiro.klak.spout": {
-      "version": "file:C:/Users/marti/Downloads/jp.keijiro.klak.spout-2.0.6/package",
+      "version": "file:jp.keijiro.klak.spout-2.0.6/package",
       "depth": 0,
       "source": "local",
       "dependencies": {
